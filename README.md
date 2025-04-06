@@ -5,6 +5,8 @@
 **Course Name:** IAP
 **Lecturer:** Geoffrey Kagombe
 **Assignment:** Todo list
+---
 ## Course Information
 **Course:** Internet Application Programming
 **Semester:** 2.2
+---
